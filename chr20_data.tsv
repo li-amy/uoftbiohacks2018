@@ -1,0 +1,526 @@
+sym	chr	start	end	strand	GOAid	GOAdescr	Gene type
+AAR2	20	36236459	36270918	1	GO:0022618	ribonucleoprotein complex assembly	protein_coding
+ABHD12	20	25294743	25390983	-1	GO:0006629	lipid metabolic process	protein_coding
+ABHD16B	20	63861498	63862988	1	GO:0003674	molecular_function	protein_coding
+ACOT8	20	45841721	45857406	-1	GO:0005777	peroxisome	protein_coding
+ACSS1	20	25006230	25058980	-1	GO:0016874	ligase activity	protein_coding
+ACSS2	20	34872146	34927962	1	GO:0016874	ligase activity	protein_coding
+ACTR5	20	38748442	38772520	1	GO:0000228	nuclear chromosome	protein_coding
+ADA	20	44619522	44652233	-1	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	protein_coding
+ADAM33	20	3667965	3682246	-1	GO:0008233	peptidase activity	protein_coding
+ADIG	20	38581195	38588463	1	GO:0005811	lipid droplet	protein_coding
+ADNP	20	50888919	50931240	-1	GO:0050877	nervous system process	protein_coding
+ADRA1D	20	4220631	4249074	-1	GO:0003013	circulatory system process	protein_coding
+ADRM1	20	62302093	62308862	1	GO:0032182	ubiquitin-like protein binding	protein_coding
+AHCY	20	34280268	34311802	-1	GO:0006520	cellular amino acid metabolic process	protein_coding
+ANGPT4	20	869899	916317	-1	GO:0048646	anatomical structure formation involved in morphogenesis	protein_coding
+ANKEF1	20	9986126	10058303	1	GO:0043167	ion binding	protein_coding
+AP5S1	20	3820524	3828837	1	GO:0005764	lysosome	protein_coding
+APCDD1L	20	58459101	58515131	-1	GO:0005575	cellular_component	protein_coding
+APMAP	20	24962925	24992979	-1	GO:0016829	lyase activity	protein_coding
+ARFGAP1	20	63272785	63289793	1	GO:0030234	enzyme regulator activity	protein_coding
+ARFGEF2	20	48921890	49036693	1	GO:0005929	cilium	protein_coding
+ARFRP1	20	63698642	63708025	-1	GO:0003924	GTPase activity	protein_coding
+ARHGAP40	20	38601934	38651035	1	GO:0030234	enzyme regulator activity	protein_coding
+ASIP	20	34194569	34269344	1	GO:0019748	secondary metabolic process	protein_coding
+ASXL1	20	32358344	32439319	1	GO:0000902	cell morphogenesis	protein_coding
+ATP5E	20	59025467	59032382	-1	GO:0016887	ATPase activity	protein_coding
+ATP9A	20	51596514	51768634	-1	GO:0016887	ATPase activity	protein_coding
+ATRN	20	3471040	3651122	1	GO:0043473	pigmentation	protein_coding
+AURKA	20	56369389	56392337	-1	GO:0021700	developmental maturation	protein_coding
+AVP	20	3082556	3084724	-1	GO:0006091	generation of precursor metabolites and energy	protein_coding
+B4GALT5	20	49632945	49713878	-1	GO:0016757	transferase activity, transferring glycosyl groups	protein_coding
+BANF2	20	17693672	17735871	1	GO:0003677	DNA binding	protein_coding
+BCAS1	20	53936777	54070594	-1	GO:0005615	extracellular space	protein_coding
+BCAS4	20	50794894	50882676	1	GO:0043234	protein complex	protein_coding
+BCL2L1	20	31664452	31723989	-1	GO:0007009	plasma membrane organization	protein_coding
+BFSP1	20	17493905	17569220	-1	GO:0021700	developmental maturation	protein_coding
+BHLHE23	20	63005927	63007035	-1	GO:0008219	cell death	protein_coding
+BIRC7	20	63235883	63240507	1	GO:0051604	protein maturation	protein_coding
+BLCAP	20	37492472	37527931	-1	GO:0008219	cell death	protein_coding
+BMP2	20	6767664	6780280	1	GO:0021700	developmental maturation	protein_coding
+BMP7	20	57168748	57266629	-1	GO:0006605	protein targeting	protein_coding
+BPI	20	38260149	38337505	1	GO:0005764	lysosome	protein_coding
+BPIFA1	20	33235995	33243311	1	GO:0044403	symbiosis, encompassing mutualism through parasitism	protein_coding
+BPIFA2	20	33161768	33181412	1	GO:0008289	lipid binding	protein_coding
+BPIFA3	20	33217310	33227758	1	GO:0008289	lipid binding	protein_coding
+BPIFB1	20	33273480	33309878	1	GO:0008289	lipid binding	protein_coding
+BPIFB2	20	33007600	33023709	1	GO:0008289	lipid binding	protein_coding
+BPIFB3	20	33055424	33073628	1	GO:0008289	lipid binding	protein_coding
+BPIFB4	20	33079644	33111751	1	GO:0008289	lipid binding	protein_coding
+BPIFB6	20	33031648	33044047	1	GO:0008289	lipid binding	protein_coding
+BTBD3	20	11890723	11926609	1	GO:0000902	cell morphogenesis	protein_coding
+C20orf141	20	2814987	2815833	1	GO:0005575	cellular_component	protein_coding
+C20orf173	20	35523186	35529652	-1	GO:0016757	transferase activity, transferring glycosyl groups	protein_coding
+C20orf194	20	3249305	3407625	-1	GO:0003674	molecular_function	protein_coding
+C20orf24	20	36605734	36612557	1	GO:0003674	molecular_function	protein_coding
+C20orf27	20	3753508	3768387	-1	GO:0003674	molecular_function	protein_coding
+C20orf96	20	270863	290778	-1	GO:0016491	oxidoreductase activity	protein_coding
+CABLES2	20	62388632	62407285	-1	GO:0051301	cell division	protein_coding
+CASS4	20	56412112	56460387	1	GO:0007155	cell adhesion	protein_coding
+CBFA2T2	20	33490075	33650036	1	GO:0000988	transcription factor activity, protein binding	protein_coding
+CBLN4	20	55997440	56005472	-1	GO:0005615	extracellular space	protein_coding
+CCM2L	20	32010450	32032180	1	GO:0040007	growth	protein_coding
+CD40	20	46118272	46129863	1	GO:0048646	anatomical structure formation involved in morphogenesis	protein_coding
+CD93	20	23079349	23086340	-1	GO:0044403	symbiosis, encompassing mutualism through parasitism	protein_coding
+CDC25B	20	3786772	3806121	1	GO:0021700	developmental maturation	protein_coding
+CDH22	20	46173733	46308498	-1	GO:0007155	cell adhesion	protein_coding
+CDH26	20	59958427	60034011	1	GO:0007155	cell adhesion	protein_coding
+CDH4	20	61252426	61940617	1	GO:0034330	cell junction organization	protein_coding
+CDK5RAP1	20	33358839	33401561	-1	GO:0006399	tRNA metabolic process	protein_coding
+CDS2	20	5126786	5197887	1	GO:0016779	nucleotidyltransferase activity	protein_coding
+CEBPB	20	50190734	50192689	1	GO:0000228	nuclear chromosome	protein_coding
+CENPB	20	3783851	3786690	-1	GO:0000228	nuclear chromosome	protein_coding
+CEP250	20	35455164	35519280	1	GO:0005929	cilium	protein_coding
+CFAP61	20	20052514	20360702	1	GO:0005929	cilium	protein_coding
+CHD6	20	41402101	41618494	-1	GO:0016887	ATPase activity	protein_coding
+CHGB	20	5911430	5925361	1	GO:0031410	cytoplasmic vesicle	protein_coding
+CHMP4B	20	33811304	33854366	1	GO:0007034	vacuolar transport	protein_coding
+CHRNA4	20	63343223	63378401	-1	GO:0050877	nervous system process	protein_coding
+CNBD2	20	35954564	36030700	1	GO:0000003	reproduction	protein_coding
+COL20A1	20	63293186	63334851	1	GO:0005783	endoplasmic reticulum	protein_coding
+COL9A3	20	62816244	62841159	1	GO:0005578	proteinaceous extracellular matrix	protein_coding
+COMMD7	20	32702691	32743997	-1	GO:0008134	transcription factor binding	protein_coding
+COX4I2	20	31637888	31645006	1	GO:0006091	generation of precursor metabolites and energy	protein_coding
+CPNE1	20	35626031	35664956	-1	GO:0005764	lysosome	protein_coding
+CPXM1	20	2794069	2800637	-1	GO:0008233	peptidase activity	protein_coding
+CRLS1	20	6006090	6040053	1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+CRNKL1	20	20034368	20056046	-1	GO:0022618	ribonucleoprotein complex assembly	protein_coding
+CSE1L	20	49046246	49096960	1	GO:0008565	protein transporter activity	protein_coding
+CSNK2A1	20	473591	543821	-1	GO:0007009	plasma membrane organization	protein_coding
+CST1	20	23747553	23751268	-1	GO:0050877	nervous system process	protein_coding
+CST11	20	23450403	23452857	-1	GO:0005929	cilium	protein_coding
+CST2	20	23823769	23826731	-1	GO:0050877	nervous system process	protein_coding
+CST3	20	23626706	23638473	-1	GO:0005578	proteinaceous extracellular matrix	protein_coding
+CST4	20	23685640	23689040	-1	GO:0050877	nervous system process	protein_coding
+CST5	20	23875935	23879750	-1	GO:0030234	enzyme regulator activity	protein_coding
+CST7	20	24949230	24959928	1	GO:0030234	enzyme regulator activity	protein_coding
+CST8	20	23491101	23496018	1	GO:0030234	enzyme regulator activity	protein_coding
+CST9	20	23602410	23605876	-1	GO:0030234	enzyme regulator activity	protein_coding
+CST9L	20	23564732	23568749	-1	GO:0030234	enzyme regulator activity	protein_coding
+CSTF1	20	56392371	56406369	1	GO:0006397	mRNA processing	protein_coding
+CSTL1	20	23439685	23444930	1	GO:0030234	enzyme regulator activity	protein_coding
+CTCFL	20	57495966	57525652	-1	GO:0042393	histone binding	protein_coding
+CTNNBL1	20	37693955	37872129	1	GO:0006397	mRNA processing	protein_coding
+CTSA	20	45890144	45898820	1	GO:0016798	hydrolase activity, acting on glycosyl bonds	protein_coding
+CTSZ	20	58995185	59007247	-1	GO:0051604	protein maturation	protein_coding
+CYP24A1	20	54153449	54173973	-1	GO:0016491	oxidoreductase activity	protein_coding
+DBNDD2	20	45406057	45410610	1	GO:0031410	cytoplasmic vesicle	protein_coding
+DDRGK1	20	3190350	3204685	-1	GO:0005730	nucleolus	protein_coding
+DDX27	20	49219295	49244077	1	GO:0042254	ribosome biogenesis	protein_coding
+DEFB115	20	31257664	31259632	1	GO:0002376	immune system process	protein_coding
+DEFB116	20	31303212	31308585	-1	GO:0002376	immune system process	protein_coding
+DEFB118	20	31368618	31373923	1	GO:0007155	cell adhesion	protein_coding
+DEFB119	20	31377164	31390603	-1	GO:0002376	immune system process	protein_coding
+DEFB121	20	31404845	31412838	-1	GO:0002376	immune system process	protein_coding
+DEFB123	20	31440519	31450257	1	GO:0002376	immune system process	protein_coding
+DEFB124	20	31465506	31476757	-1	GO:0002376	immune system process	protein_coding
+DEFB125	20	87250	97094	1	GO:0002376	immune system process	protein_coding
+DEFB126	20	142369	145751	1	GO:0000003	reproduction	protein_coding
+DEFB127	20	157470	159163	1	GO:0002376	immune system process	protein_coding
+DEFB128	20	187853	189681	-1	GO:0002376	immune system process	protein_coding
+DEFB129	20	227258	229886	1	GO:0002376	immune system process	protein_coding
+DEFB132	20	257736	261096	1	GO:0002376	immune system process	protein_coding
+DHX35	20	38962299	39039723	1	GO:0004386	helicase activity	protein_coding
+DIDO1	20	62877738	62937952	-1	GO:0003723	RNA binding	protein_coding
+DLGAP4	20	36306336	36528637	1	GO:0006461	protein complex assembly	protein_coding
+DNAJC5	20	63895182	63936031	1	GO:0005764	lysosome	protein_coding
+DNMT3B	20	32762385	32809356	1	GO:0008168	methyltransferase activity	protein_coding
+DNTTIP1	20	45791937	45811427	1	GO:0005730	nucleolus	protein_coding
+DOK5	20	54475597	54651171	1	GO:0000902	cell morphogenesis	protein_coding
+DPM1	20	50934867	50958555	-1	GO:0016757	transferase activity, transferring glycosyl groups	protein_coding
+DSN1	20	36751791	36773818	-1	GO:0007059	chromosome segregation	protein_coding
+DSTN	20	17569863	17609919	1	GO:0008092	cytoskeletal protein binding	protein_coding
+DTD1	20	18567453	18763917	1	GO:0006399	tRNA metabolic process	protein_coding
+DUSP15	20	31847637	31870747	-1	GO:0016791	phosphatase activity	protein_coding
+DYNLRB1	20	34516409	34540958	1	GO:0030705	cytoskeleton-dependent intracellular transport	protein_coding
+DZANK1	20	18383367	18467281	-1	GO:0043167	ion binding	protein_coding
+E2F1	20	33675683	33686404	-1	GO:0034655	nucleobase-containing compound catabolic process	protein_coding
+EBF4	20	2692878	2760108	1	GO:0008134	transcription factor binding	protein_coding
+EDEM2	20	35115357	35147364	-1	GO:0016798	hydrolase activity, acting on glycosyl bonds	protein_coding
+EDN3	20	59300427	59325992	1	GO:0003013	circulatory system process	protein_coding
+EEF1A2	20	63488013	63499315	-1	GO:0008135	translation factor activity, RNA binding	protein_coding
+EFCAB8	20	32858923	32961609	1	GO:0043167	ion binding	protein_coding
+EIF2S2	20	34088298	34112332	-1	GO:0008135	translation factor activity, RNA binding	protein_coding
+EIF6	20	35278907	35284985	-1	GO:0008135	translation factor activity, RNA binding	protein_coding
+ELMO2	20	46366049	46432985	-1	GO:0007010	cytoskeleton organization	protein_coding
+EMILIN3	20	41359966	41366827	-1	GO:0005578	proteinaceous extracellular matrix	protein_coding
+ENTPD6	20	25195693	25226729	1	GO:0034655	nucleobase-containing compound catabolic process	protein_coding
+EPB41L1	20	36091504	36232799	1	GO:0005198	structural molecule activity	protein_coding
+EPPIN	20	45540626	45547752	-1	GO:0006461	protein complex assembly	protein_coding
+EPPIN-WFDC6	20	45536986	45547426	-1	GO:0006461	protein complex assembly	protein_coding
+ERGIC3	20	35542021	35557634	1	GO:0005794	Golgi apparatus	protein_coding
+ESF1	20	13714322	13784886	-1	GO:0005730	nucleolus	protein_coding
+EYA2	20	46894624	47188844	1	GO:0007005	mitochondrion organization	protein_coding
+FAM110A	20	833715	857463	1	GO:0005815	microtubule organizing center	protein_coding
+FAM209A	20	56517187	56526142	1	GO:0005615	extracellular space	protein_coding
+FAM209B	20	56533246	56536520	1	GO:0005634	nucleus	protein_coding
+FAM210B	20	56358915	56368663	1	GO:0021700	developmental maturation	protein_coding
+FAM217B	20	59933764	59948680	1	GO:0005654	nucleoplasm	protein_coding
+FAM83C	20	35285731	35292401	-1	GO:0019899	enzyme binding	protein_coding
+FAM83D	20	38926312	38953106	1	GO:0007059	chromosome segregation	protein_coding
+FASTKD5	20	3146519	3159897	-1	GO:0019843	rRNA binding	protein_coding
+FERMT1	20	6074845	6123544	-1	GO:0021700	developmental maturation	protein_coding
+FITM2	20	44302838	44311169	-1	GO:0000902	cell morphogenesis	protein_coding
+FKBP1A	20	1368978	1393172	-1	GO:0006457	protein folding	protein_coding
+FLRT3	20	14322988	14337616	-1	GO:0030674	protein binding, bridging	protein_coding
+FNDC11	20	63547891	63556708	1	GO:0005615	extracellular space	protein_coding
+FOXA2	20	22581005	22585455	-1	GO:0005975	carbohydrate metabolic process	protein_coding
+FOXS1	20	31844301	31845619	-1	GO:0050877	nervous system process	protein_coding
+GATA5	20	62463497	62475970	-1	GO:0008134	transcription factor binding	protein_coding
+GCNT7	20	56491492	56525925	-1	GO:0016757	transferase activity, transferring glycosyl groups	protein_coding
+GDAP1L1	20	44247099	44280917	1	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups	protein_coding
+GDF5	20	35433347	35454746	-1	GO:0006913	nucleocytoplasmic transport	protein_coding
+GDF5OS	20	35433029	35435450	1	GO:0005739	mitochondrion	protein_coding
+GFRA4	20	3659292	3663399	-1	GO:0000902	cell morphogenesis	protein_coding
+GGT7	20	34844720	34872860	-1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+GGTLC1	20	23985050	23988779	-1	GO:0006790	sulfur compound metabolic process	protein_coding
+GHRH	20	37251082	37261835	-1	GO:0040007	growth	protein_coding
+GID8	20	62938119	62948475	1	GO:0005654	nucleoplasm	protein_coding
+GINS1	20	25407727	25452628	1	GO:0004386	helicase activity	protein_coding
+GMEB2	20	63587602	63627041	-1	GO:0000988	transcription factor activity, protein binding	protein_coding
+GNAS	20	58839718	58911192	1	GO:0006091	generation of precursor metabolites and energy	protein_coding
+GNRH2	20	3043622	3045747	1	GO:0005576	extracellular region	protein_coding
+GPCPD1	20	5544404	5611026	-1	GO:0042592	homeostatic process	protein_coding
+GSS	20	34928430	34955817	-1	GO:0007568	aging	protein_coding
+GTSF1L	20	43726164	43726998	-1	GO:0043167	ion binding	protein_coding
+GZF1	20	23362182	23373063	1	GO:0005730	nucleolus	protein_coding
+HAO1	20	7882981	7940474	-1	GO:0005777	peroxisome	protein_coding
+HCK	20	32052188	32101856	1	GO:0005764	lysosome	protein_coding
+HELZ2	20	63558086	63574239	-1	GO:0004386	helicase activity	protein_coding
+HM13	20	31514428	31577923	1	GO:0005764	lysosome	protein_coding
+HNF4A	20	44355700	44434596	1	GO:0006520	cellular amino acid metabolic process	protein_coding
+HRH3	20	62214970	62220267	-1	GO:0050877	nervous system process	protein_coding
+HSPA12B	20	3732667	3753111	1	GO:0043167	ion binding	protein_coding
+ID1	20	31605283	31606515	1	GO:0048646	anatomical structure formation involved in morphogenesis	protein_coding
+IDH3B	20	2658395	2664219	-1	GO:0006091	generation of precursor metabolites and energy	protein_coding
+IFT52	20	43590931	43647296	1	GO:0030705	cytoskeleton-dependent intracellular transport	protein_coding
+INSM1	20	20368121	20370949	1	GO:0006461	protein complex assembly	protein_coding
+ISM1	20	13221771	13300651	1	GO:0005576	extracellular region	protein_coding
+ITCH	20	34363235	34511393	1	GO:0016874	ligase activity	protein_coding
+ITPA	20	3208868	3223870	1	GO:0034655	nucleobase-containing compound catabolic process	protein_coding
+JAG1	20	10637684	10674107	-1	GO:0005198	structural molecule activity	protein_coding
+JPH2	20	44111695	44187578	-1	GO:0008289	lipid binding	protein_coding
+KAT14	20	18138118	18188387	1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+KCNB1	20	49293394	49484297	-1	GO:0007009	plasma membrane organization	protein_coding
+KCNG1	20	51003656	51023129	-1	GO:0022857	transmembrane transporter activity	protein_coding
+KCNK15	20	44745780	44752313	1	GO:0003013	circulatory system process	protein_coding
+KCNQ2	20	63400210	63472677	-1	GO:0008092	cytoskeletal protein binding	protein_coding
+KCNS1	20	45092310	45101112	-1	GO:0022857	transmembrane transporter activity	protein_coding
+KIF16B	20	16272104	16573434	-1	GO:0016887	ATPase activity	protein_coding
+KIF3B	20	32277664	32335011	1	GO:0030705	cytoskeleton-dependent intracellular transport	protein_coding
+KIZ	20	21125983	21246622	1	GO:0005815	microtubule organizing center	protein_coding
+L3MBTL1	20	43507680	43550950	1	GO:0042393	histone binding	protein_coding
+LAMA5	20	62307955	62367312	-1	GO:0007009	plasma membrane organization	protein_coding
+LAMP5	20	9514358	9530524	1	GO:0005768	endosome	protein_coding
+LBP	20	38346356	38377023	1	GO:0044403	symbiosis, encompassing mutualism through parasitism	protein_coding
+LIME1	20	63736283	63739103	1	GO:0006397	mRNA processing	protein_coding
+LPIN3	20	41340920	41360582	1	GO:0016791	phosphatase activity	protein_coding
+LRRN4	20	6040778	6054049	-1	GO:0050877	nervous system process	protein_coding
+LSM14B	20	62122461	62135378	1	GO:0006412	translation	protein_coding
+LZTS3	20	3162617	3173592	-1	GO:0000902	cell morphogenesis	protein_coding
+MACROD2	20	13995369	16053197	1	GO:0016798	hydrolase activity, acting on glycosyl bonds	protein_coding
+MAFB	20	40685848	40689240	-1	GO:0009790	embryo development	protein_coding
+MANBAL	20	37289638	37317260	1	GO:0003674	molecular_function	protein_coding
+MAP1LC3A	20	34546854	34560345	1	GO:0007005	mitochondrion organization	protein_coding
+MAPRE1	20	32819893	32850405	1	GO:0007059	chromosome segregation	protein_coding
+MATN4	20	45293445	45308529	-1	GO:0030198	extracellular matrix organization	protein_coding
+MAVS	20	3846799	3876123	1	GO:0005777	peroxisome	protein_coding
+MC3R	20	56248732	56249815	1	GO:0003013	circulatory system process	protein_coding
+MCM8	20	5950652	5998977	1	GO:0004386	helicase activity	protein_coding
+MGME1	20	17968913	17991122	1	GO:0004518	nuclease activity	protein_coding
+MIR1-1	20	62554306	62554376	1	GO:0003729	mRNA binding	miRNA
+MIR103A2	20	3917494	3917571	1	GO:0003729	mRNA binding	miRNA
+MIR124-3	20	63178500	63178586	1	GO:0006412	translation	miRNA
+MIR133A2	20	62564912	62565013	1	GO:0003729	mRNA binding	miRNA
+MIR499A	20	34990376	34990497	1	GO:0003729	mRNA binding	miRNA
+MIR548O2	20	38516563	38516632	1	GO:0005615	extracellular space	miRNA
+MIR663A	20	26208186	26208278	-1	GO:0003729	mRNA binding	miRNA
+MIR941-1	20	63919449	63919520	1	GO:0005615	extracellular space	miRNA
+MIR941-2	20	63919505	63919576	1	GO:0005615	extracellular space	miRNA
+MIR941-3	20	63919561	63919632	1	GO:0005615	extracellular space	miRNA
+MIR941-4	20	63919756	63919827	1	GO:0005615	extracellular space	miRNA
+MIR941-5	20	63919868	63919939	1	GO:0005615	extracellular space	miRNA
+MKKS	20	10401009	10434222	-1	GO:0043473	pigmentation	protein_coding
+MMP24	20	35226654	35277000	1	GO:0005578	proteinaceous extracellular matrix	protein_coding
+MMP9	20	46008908	46016561	1	GO:0005578	proteinaceous extracellular matrix	protein_coding
+MOCS3	20	50958826	50963931	1	GO:0016779	nucleotidyltransferase activity	protein_coding
+MRGBP	20	62796453	62801738	1	GO:0040007	growth	protein_coding
+MRPS26	20	3045945	3048254	1	GO:0005840	ribosome	protein_coding
+MTG2	20	62183029	62203568	1	GO:0005840	ribosome	protein_coding
+MTRNR2L3	20	57358442	57359980	-1	GO:0005576	extracellular region	protein_coding
+MYBL2	20	43667019	43716496	1	GO:0140014	mitotic nuclear division	protein_coding
+MYH7B	20	34975403	35002437	1	GO:0008092	cytoskeletal protein binding	protein_coding
+MYL9	20	36541484	36551447	1	GO:0005198	structural molecule activity	protein_coding
+MYLK2	20	31819308	31834689	1	GO:0003013	circulatory system process	protein_coding
+MYT1	20	64151791	64242253	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+NAA20	20	20017116	20033655	1	GO:0051604	protein maturation	protein_coding
+NANP	20	25612935	25624175	-1	GO:0005975	carbohydrate metabolic process	protein_coding
+NAPB	20	23374519	23421519	-1	GO:0061024	membrane organization	protein_coding
+NCOA3	20	47501902	47656877	1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+NCOA5	20	46060985	46089952	-1	GO:0042592	homeostatic process	protein_coding
+NCOA6	20	34689097	34825649	-1	GO:0008134	transcription factor binding	protein_coding
+NDRG3	20	36651766	36746078	-1	GO:0040007	growth	protein_coding
+NDUFAF5	20	13784950	13821582	1	GO:0008168	methyltransferase activity	protein_coding
+NECAB3	20	33657087	33674463	-1	GO:0005794	Golgi apparatus	protein_coding
+NELFCD	20	58981208	58995133	1	GO:0034641	cellular nitrogen compound metabolic process	protein_coding
+NEURL2	20	45888625	45891287	-1	GO:0005829	cytosol	protein_coding
+NFATC2	20	51386957	51562831	-1	GO:0000228	nuclear chromosome	protein_coding
+NFS1	20	35668055	35699359	-1	GO:0006520	cellular amino acid metabolic process	protein_coding
+NINL	20	25452705	25585517	-1	GO:0005815	microtubule organizing center	protein_coding
+NKAIN4	20	63240784	63272694	-1	GO:0005886	plasma membrane	protein_coding
+NKX2-2	20	21511010	21514026	-1	GO:0008134	transcription factor binding	protein_coding
+NKX2-4	20	21395367	21398028	-1	GO:0003677	DNA binding	protein_coding
+NNAT	20	37521215	37523693	1	GO:0051604	protein maturation	protein_coding
+NOL4L	20	32443059	32585074	-1	GO:0005654	nucleoplasm	protein_coding
+NOP56	20	2652145	2658393	1	GO:0042254	ribosome biogenesis	protein_coding
+NPBWR2	20	64105820	64107171	-1	GO:0004871	signal transducer activity	protein_coding
+NPEPL1	20	58689131	58719238	1	GO:0008233	peptidase activity	protein_coding
+NRSN2	20	346782	359660	1	GO:0031410	cytoplasmic vesicle	protein_coding
+NSFL1C	20	1442162	1473842	-1	GO:0032182	ubiquitin-like protein binding	protein_coding
+NTSR1	20	62708837	62762771	1	GO:0003013	circulatory system process	protein_coding
+NXT1	20	23350736	23354777	1	GO:0006913	nucleocytoplasmic transport	protein_coding
+OCSTAMP	20	46540946	46550574	-1	GO:0048646	anatomical structure formation involved in morphogenesis	protein_coding
+OGFR	20	62804835	62814000	1	GO:0040007	growth	protein_coding
+OPRL1	20	64080173	64100643	1	GO:0003013	circulatory system process	protein_coding
+OSBPL2	20	62231922	62296213	1	GO:0008289	lipid binding	protein_coding
+OTOR	20	16748358	16770062	1	GO:0050877	nervous system process	protein_coding
+OVOL2	20	17956979	18059188	-1	GO:0009790	embryo development	protein_coding
+OXT	20	3071620	3072517	1	GO:0003013	circulatory system process	protein_coding
+PABPC1L	20	44910062	44959035	1	GO:0021700	developmental maturation	protein_coding
+PAK5	20	9537389	9839041	-1	GO:0050877	nervous system process	protein_coding
+PANK2	20	3888839	3929882	1	GO:0006091	generation of precursor metabolites and energy	protein_coding
+PARD6B	20	50731544	50756795	1	GO:0034330	cell junction organization	protein_coding
+PAX1	20	21705659	21718486	1	GO:0009790	embryo development	protein_coding
+PCED1A	20	2835314	2841190	-1	GO:0003674	molecular_function	protein_coding
+PCIF1	20	45934628	45948023	1	GO:0005856	cytoskeleton	protein_coding
+PCK1	20	57561080	57568112	1	GO:0016829	lyase activity	protein_coding
+PCMTD2	20	64255695	64287821	1	GO:0008168	methyltransferase activity	protein_coding
+PCNA	20	5114953	5126626	-1	GO:0016798	hydrolase activity, acting on glycosyl bonds	protein_coding
+PCSK2	20	17226107	17484578	1	GO:0051604	protein maturation	protein_coding
+PDRG1	20	31944342	31952092	-1	GO:0051082	unfolded protein binding	protein_coding
+PDYN	20	1978757	1994285	-1	GO:0050877	nervous system process	protein_coding
+PET117	20	18137873	18143169	1	GO:0007005	mitochondrion organization	protein_coding
+PFDN4	20	54207847	54228052	1	GO:0051082	unfolded protein binding	protein_coding
+PHACTR3	20	59577509	59847711	1	GO:0008092	cytoskeletal protein binding	protein_coding
+PHF20	20	35771974	35950381	1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+PI3	20	45174876	45176544	1	GO:0005578	proteinaceous extracellular matrix	protein_coding
+PIGT	20	45416067	45456934	1	GO:0008219	cell death	protein_coding
+PIGU	20	34560542	34698790	-1	GO:0008289	lipid binding	protein_coding
+PKIG	20	44531785	44624247	1	GO:0006605	protein targeting	protein_coding
+PLAGL2	20	32192503	32207791	-1	GO:0006605	protein targeting	protein_coding
+PLCB1	20	8077251	8968360	1	GO:0000228	nuclear chromosome	protein_coding
+PLCB4	20	9068763	9481242	1	GO:0004871	signal transducer activity	protein_coding
+PLCG1	20	41136960	41196801	1	GO:0009790	embryo development	protein_coding
+PLTP	20	45898621	45912155	-1	GO:0008289	lipid binding	protein_coding
+PMEPA1	20	57648392	57711536	-1	GO:0005768	endosome	protein_coding
+POFUT1	20	32207880	32238667	1	GO:0016757	transferase activity, transferring glycosyl groups	protein_coding
+POLR3F	20	18467127	18484643	1	GO:0016779	nucleotidyltransferase activity	protein_coding
+PPDPF	20	63520724	63522206	1	GO:0030154	cell differentiation	protein_coding
+PPP1R16B	20	38805705	38923024	1	GO:0048646	anatomical structure formation involved in morphogenesis	protein_coding
+PPP1R3D	20	59936668	59940297	-1	GO:0006091	generation of precursor metabolites and energy	protein_coding
+PRELID3B	20	59033145	59042909	-1	GO:0005739	mitochondrion	protein_coding
+PREX1	20	48624252	48827883	-1	GO:0000902	cell morphogenesis	protein_coding
+PRND	20	4721910	4728460	1	GO:0006461	protein complex assembly	protein_coding
+PRNP	20	4686236	4701590	1	GO:0007009	plasma membrane organization	protein_coding
+PRNT	20	4731282	4740668	-1	GO:0005576	extracellular region	protein_coding
+PROCR	20	35172073	35216240	1	GO:0005815	microtubule organizing center	protein_coding
+PROKR2	20	5302040	5314369	-1	GO:0003013	circulatory system process	protein_coding
+PRPF6	20	63981135	64033100	1	GO:0022618	ribonucleoprotein complex assembly	protein_coding
+PSMA7	20	62136735	62143440	-1	GO:0006520	cellular amino acid metabolic process	protein_coding
+PSMF1	20	1113263	1189415	1	GO:0006520	cellular amino acid metabolic process	protein_coding
+PTGIS	20	49503874	49568146	-1	GO:0016853	isomerase activity	protein_coding
+PTK6	20	63528001	63537370	-1	GO:0040007	growth	protein_coding
+PTPN1	20	50510321	50585241	1	GO:0016791	phosphatase activity	protein_coding
+PTPRA	20	2864184	3039076	1	GO:0016791	phosphatase activity	protein_coding
+PTPRT	20	42072752	43189970	-1	GO:0016791	phosphatase activity	protein_coding
+PXMP4	20	33702754	33720319	-1	GO:0005777	peroxisome	protein_coding
+PYGB	20	25248069	25298014	1	GO:0016757	transferase activity, transferring glycosyl groups	protein_coding
+R3HDML	20	44336986	44351235	1	GO:0030234	enzyme regulator activity	protein_coding
+RAB22A	20	58309696	58367507	1	GO:0003924	GTPase activity	protein_coding
+RAD21L1	20	1226056	1296421	1	GO:0007059	chromosome segregation	protein_coding
+RAE1	20	57351010	57379211	1	GO:0032182	ubiquitin-like protein binding	protein_coding
+RALGAPA2	20	20389552	20712488	-1	GO:0030234	enzyme regulator activity	protein_coding
+RALGAPB	20	38472816	38578861	1	GO:0030234	enzyme regulator activity	protein_coding
+RALY	20	33993646	34108308	1	GO:0006397	mRNA processing	protein_coding
+RASSF2	20	4780023	4823645	-1	GO:0005694	chromosome	protein_coding
+RBBP8NL	20	62410237	62427533	-1	GO:0005615	extracellular space	protein_coding
+RBBP9	20	18486540	18497243	-1	GO:0008283	cell proliferation	protein_coding
+RBCK1	20	407498	430966	1	GO:0032182	ubiquitin-like protein binding	protein_coding
+RBL1	20	36996349	37095995	-1	GO:0008134	transcription factor binding	protein_coding
+RBM12	20	35648925	35664956	-1	GO:0003723	RNA binding	protein_coding
+RBM38	20	57391407	57409333	1	GO:0003729	mRNA binding	protein_coding
+RBM39	20	35701347	35742312	-1	GO:0006397	mRNA processing	protein_coding
+RBPJL	20	45306851	45317824	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+REM1	20	31475293	31484905	1	GO:0003924	GTPase activity	protein_coding
+RGS19	20	64073181	64079988	-1	GO:0006914	autophagy	protein_coding
+RIMS4	20	44751808	44810338	-1	GO:0007267	cell-cell signaling	protein_coding
+RIN2	20	19886521	20002457	1	GO:0030234	enzyme regulator activity	protein_coding
+RNF114	20	49936336	49953892	1	GO:0000003	reproduction	protein_coding
+RNF24	20	3927309	4015582	-1	GO:0005794	Golgi apparatus	protein_coding
+ROMO1	20	35699272	35700984	1	GO:0007568	aging	protein_coding
+RPN2	20	37178410	37241623	1	GO:0007568	aging	protein_coding
+RPRD1B	20	38033546	38127780	1	GO:0005815	microtubule organizing center	protein_coding
+RPS21	20	62387116	62388520	1	GO:0003735	structural constituent of ribosome	protein_coding
+RRBP1	20	17613678	17682295	-1	GO:0005840	ribosome	protein_coding
+RSPO4	20	958452	1002264	-1	GO:0007267	cell-cell signaling	protein_coding
+RTEL1	20	63657810	63696253	1	GO:0004386	helicase activity	protein_coding
+RTEL1-TNFRSF6B	20	63659300	63698684	1	GO:0004386	helicase activity	protein_coding
+RTFDC1	20	56468585	56519449	1	GO:0000278	mitotic cell cycle	protein_coding
+SALL4	20	51782331	51802520	-1	GO:0009790	embryo development	protein_coding
+SAMHD1	20	36890229	36951843	-1	GO:0004518	nuclease activity	protein_coding
+SCAND1	20	35953617	35959472	-1	GO:0000988	transcription factor activity, protein binding	protein_coding
+SCP2D1	20	18813726	18814392	1	GO:0008289	lipid binding	protein_coding
+SCRT2	20	661596	676179	-1	GO:0000228	nuclear chromosome	protein_coding
+SDC4	20	45325288	45348424	-1	GO:0034330	cell junction organization	protein_coding
+SDCBP2	20	1309909	1329239	-1	GO:0005730	nucleolus	protein_coding
+SEC23B	20	18507493	18561415	1	GO:0061024	membrane organization	protein_coding
+SEL1L2	20	13849247	13996443	-1	GO:0005575	cellular_component	protein_coding
+SEMG1	20	45206997	45209772	1	GO:0006461	protein complex assembly	protein_coding
+SEMG2	20	45221300	45224458	1	GO:0006461	protein complex assembly	protein_coding
+SERINC3	20	44496221	44522109	-1	GO:0006520	cellular amino acid metabolic process	protein_coding
+SGK2	20	43558968	43588237	1	GO:0040007	growth	protein_coding
+SIGLEC1	20	3686970	3707128	-1	GO:0007155	cell adhesion	protein_coding
+SIRPA	20	1894167	1940592	1	GO:0007155	cell adhesion	protein_coding
+SIRPB1	20	1563521	1620061	-1	GO:0016192	vesicle-mediated transport	protein_coding
+SIRPB2	20	1470741	1491587	-1	GO:0005575	cellular_component	protein_coding
+SIRPD	20	1534251	1558843	-1	GO:0005576	extracellular region	protein_coding
+SIRPG	20	1629152	1657779	-1	GO:0007155	cell adhesion	protein_coding
+SLA2	20	36612318	36646216	-1	GO:0030674	protein binding, bridging	protein_coding
+SLC12A5	20	46021690	46060152	1	GO:0050877	nervous system process	protein_coding
+SLC13A3	20	46557823	46684467	-1	GO:0022857	transmembrane transporter activity	protein_coding
+SLC17A9	20	62952647	62969585	1	GO:0006605	protein targeting	protein_coding
+SLC23A2	20	4852356	5010293	-1	GO:0005975	carbohydrate metabolic process	protein_coding
+SLC24A3	20	19212646	19722937	1	GO:0022857	transmembrane transporter activity	protein_coding
+SLC2A10	20	46709487	46736347	1	GO:0022857	transmembrane transporter activity	protein_coding
+SLC2A4RG	20	63739861	63743505	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+SLC32A1	20	38724462	38729372	1	GO:0007568	aging	protein_coding
+SLC35C2	20	46345980	46364458	-1	GO:0005794	Golgi apparatus	protein_coding
+SLC4A11	20	3227417	3239190	-1	GO:0022857	transmembrane transporter activity	protein_coding
+SLC52A3	20	760080	776015	-1	GO:0050877	nervous system process	protein_coding
+SLC9A8	20	49812713	49892242	1	GO:0022857	transmembrane transporter activity	protein_coding
+SLCO4A1	20	62642445	62685785	1	GO:0022857	transmembrane transporter activity	protein_coding
+SLPI	20	45252239	45254564	-1	GO:0003729	mRNA binding	protein_coding
+SLX4IP	20	10435303	10636829	1	GO:0003674	molecular_function	protein_coding
+SMIM26	20	18567347	18569563	1	GO:0005575	cellular_component	protein_coding
+SMOX	20	4120980	4187747	1	GO:0016491	oxidoreductase activity	protein_coding
+SNAI1	20	49982999	49988886	1	GO:0034330	cell junction organization	protein_coding
+SNAP25	20	10218830	10307418	1	GO:0050877	nervous system process	protein_coding
+SNPH	20	1266316	1309328	1	GO:0005739	mitochondrion	protein_coding
+SNRPB	20	2461634	2470853	-1	GO:0022618	ribonucleoprotein complex assembly	protein_coding
+SNRPB2	20	16729961	16742563	1	GO:0005730	nucleolus	protein_coding
+SNTA1	20	33407955	33443892	-1	GO:0003013	circulatory system process	protein_coding
+SNX21	20	45833810	45843275	1	GO:0005768	endosome	protein_coding
+SNX5	20	17941597	17968980	-1	GO:0006914	autophagy	protein_coding
+SOGA1	20	36777442	36863686	-1	GO:0005975	carbohydrate metabolic process	protein_coding
+SOX12	20	325595	330224	1	GO:0000988	transcription factor activity, protein binding	protein_coding
+SOX18	20	64047582	64049641	-1	GO:0021700	developmental maturation	protein_coding
+SPAG4	20	35615892	35621049	1	GO:0005198	structural molecule activity	protein_coding
+SPATA2	20	49903391	49915508	-1	GO:0005730	nucleolus	protein_coding
+SPATA25	20	45886489	45887635	-1	GO:0000003	reproduction	protein_coding
+SPEF1	20	3777504	3781448	-1	GO:0005929	cilium	protein_coding
+SPINT3	20	45512461	45515624	-1	GO:0030234	enzyme regulator activity	protein_coding
+SPINT4	20	45722351	45725830	1	GO:0030234	enzyme regulator activity	protein_coding
+SPO11	20	57329759	57343994	1	GO:0004518	nuclease activity	protein_coding
+SPTLC3	20	13008979	13169103	1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+SRC	20	37344685	37406050	1	GO:0030674	protein binding, bridging	protein_coding
+SRMS	20	63540810	63547504	-1	GO:0016301	kinase activity	protein_coding
+SRSF6	20	43457928	43464247	1	GO:0022618	ribonucleoprotein complex assembly	protein_coding
+SRXN1	20	646615	653370	-1	GO:0016491	oxidoreductase activity	protein_coding
+SS18L1	20	62143795	62182484	1	GO:0000228	nuclear chromosome	protein_coding
+SSTR4	20	23035386	23036812	1	GO:0004871	signal transducer activity	protein_coding
+STAU1	20	49113339	49188367	-1	GO:0044403	symbiosis, encompassing mutualism through parasitism	protein_coding
+STK35	20	2101611	2177038	1	GO:0005730	nucleolus	protein_coding
+STK4	20	44966474	45079959	1	GO:0009790	embryo development	protein_coding
+STMN3	20	63639705	63657682	-1	GO:0008092	cytoskeletal protein binding	protein_coding
+STX16	20	58651253	58679526	1	GO:0061024	membrane organization	protein_coding
+STX16-NPEPL1	20	58651434	58715410	1	GO:0061024	membrane organization	protein_coding
+SULF2	20	47656348	47786616	-1	GO:0030198	extracellular matrix organization	protein_coding
+SUN5	20	32983773	33004433	-1	GO:0005635	nuclear envelope	protein_coding
+SYCP2	20	59863563	59933655	-1	GO:0007059	chromosome segregation	protein_coding
+SYNDIG1	20	24469199	24666616	1	GO:0005768	endosome	protein_coding
+SYS1	20	45361937	45376798	1	GO:0006605	protein targeting	protein_coding
+SYS1-DBNDD2	20	45363200	45410610	1	GO:0006605	protein targeting	protein_coding
+TAF4	20	61953469	62065810	-1	GO:0000228	nuclear chromosome	protein_coding
+TASP1	20	13389392	13638940	-1	GO:0008233	peptidase activity	protein_coding
+TBC1D20	20	435480	462553	-1	GO:0005635	nuclear envelope	protein_coding
+TCEA2	20	64049836	64072347	1	GO:0008135	translation factor activity, RNA binding	protein_coding
+TCF15	20	603797	610398	-1	GO:0030198	extracellular matrix organization	protein_coding
+TCFL5	20	62841115	62861763	-1	GO:0000003	reproduction	protein_coding
+TFAP2C	20	56629302	56639283	1	GO:0005739	mitochondrion	protein_coding
+TGIF2	20	36573488	36593950	1	GO:0009790	embryo development	protein_coding
+TGIF2-C20orf24	20	36574553	36612384	1	GO:0005739	mitochondrion	protein_coding
+TGM2	20	38127387	38166578	-1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+TGM3	20	2296001	2341078	1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+TGM6	20	2380908	2432753	1	GO:0016746	transferase activity, transferring acyl groups	protein_coding
+THBD	20	23045633	23049741	-1	GO:0005773	vacuole	protein_coding
+TM9SF4	20	32109506	32167258	1	GO:0005768	endosome	protein_coding
+TMC2	20	2536607	2641784	1	GO:0050877	nervous system process	protein_coding
+TMEM189	20	50118254	50153734	-1	GO:0005783	endoplasmic reticulum	protein_coding
+TMEM189-UBE2V1	20	50081124	50153637	-1	GO:0006259	DNA metabolic process	protein_coding
+TMEM230	20	5068232	5113103	-1	GO:0005768	endosome	protein_coding
+TMEM239	20	2816302	2820284	1	GO:0003674	molecular_function	protein_coding
+TMEM74B	20	1180561	1185415	-1	GO:0005575	cellular_component	protein_coding
+TMX4	20	7977348	8019829	-1	GO:0006457	protein folding	protein_coding
+TNFRSF6B	20	63696668	63698684	1	GO:0004871	signal transducer activity	protein_coding
+TNNC2	20	45823214	45833745	-1	GO:0008092	cytoskeletal protein binding	protein_coding
+TOMM34	20	44942130	44960486	-1	GO:0006605	protein targeting	protein_coding
+TOP1	20	41028818	41124487	1	GO:0016853	isomerase activity	protein_coding
+TOX2	20	43914864	44069616	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+TP53INP2	20	34704290	34713439	1	GO:0032182	ubiquitin-like protein binding	protein_coding
+TP53RK	20	46684365	46689779	-1	GO:0006399	tRNA metabolic process	protein_coding
+TP53TG5	20	45372563	45407889	-1	GO:0040007	growth	protein_coding
+TPD52L2	20	63865228	63891545	1	GO:0003723	RNA binding	protein_coding
+TPX2	20	31739271	31801805	1	GO:0140014	mitotic nuclear division	protein_coding
+TRIB3	20	362835	397559	1	GO:0005730	nucleolus	protein_coding
+TRMT6	20	5937235	5950558	-1	GO:0006399	tRNA metabolic process	protein_coding
+TRPC4AP	20	35002404	35092871	-1	GO:0021700	developmental maturation	protein_coding
+TSHZ2	20	52972407	53495330	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+TTI1	20	37983007	38033468	-1	GO:0043234	protein complex	protein_coding
+TTLL9	20	31870702	31944963	1	GO:0016874	ligase activity	protein_coding
+TTPAL	20	44475886	44494603	1	GO:0006810	transport	protein_coding
+TUBB1	20	59019254	59026654	1	GO:0005198	structural molecule activity	protein_coding
+UBE2C	20	45812576	45816957	1	GO:0007059	chromosome segregation	protein_coding
+UBE2V1	20	50081124	50115959	-1	GO:0006259	DNA metabolic process	protein_coding
+UBOX5	20	3107573	3160196	-1	GO:0019899	enzyme binding	protein_coding
+UCKL1	20	63939829	63956415	-1	GO:0044403	symbiosis, encompassing mutualism through parasitism	protein_coding
+UQCC1	20	35302566	35412141	-1	GO:0007005	mitochondrion organization	protein_coding
+VAPB	20	58389122	58451101	1	GO:0061024	membrane organization	protein_coding
+VPS16	20	2840703	2866732	1	GO:0007034	vacuolar transport	protein_coding
+VSTM2L	20	37903104	37945350	1	GO:0008219	cell death	protein_coding
+VSX1	20	25070885	25082365	-1	GO:0021700	developmental maturation	protein_coding
+WFDC10A	20	45629526	45631196	1	GO:0030234	enzyme regulator activity	protein_coding
+WFDC10B	20	45684653	45705019	-1	GO:0030234	enzyme regulator activity	protein_coding
+WFDC11	20	45648563	45670270	-1	GO:0005576	extracellular region	protein_coding
+WFDC12	20	45123425	45124465	-1	GO:0030234	enzyme regulator activity	protein_coding
+WFDC13	20	45702016	45708817	1	GO:0030234	enzyme regulator activity	protein_coding
+WFDC2	20	45469706	45481532	1	GO:0000003	reproduction	protein_coding
+WFDC3	20	45747944	45791932	-1	GO:0030234	enzyme regulator activity	protein_coding
+WFDC5	20	45109452	45115172	-1	GO:0030234	enzyme regulator activity	protein_coding
+WFDC6	20	45534196	45539495	-1	GO:0030234	enzyme regulator activity	protein_coding
+WFDC8	20	45551153	45579326	-1	GO:0030234	enzyme regulator activity	protein_coding
+WFDC9	20	45607939	45631268	-1	GO:0005576	extracellular region	protein_coding
+WISP2	20	44714844	44728509	1	GO:0005578	proteinaceous extracellular matrix	protein_coding
+XKR7	20	31968002	32003387	1	GO:0005575	cellular_component	protein_coding
+XRN2	20	21303304	21389827	1	GO:0004518	nuclease activity	protein_coding
+YTHDF1	20	63195429	63216234	-1	GO:0006412	translation	protein_coding
+YWHAB	20	44885676	44908532	1	GO:0006605	protein targeting	protein_coding
+ZBP1	20	57603846	57620576	-1	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	protein_coding
+ZBTB46	20	63743666	63831244	-1	GO:0002376	immune system process	protein_coding
+ZCCHC3	20	296968	300321	1	GO:0003723	RNA binding	protein_coding
+ZFP64	20	52051663	52204308	-1	GO:0003677	DNA binding	protein_coding
+ZGPAT	20	63707465	63736142	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+ZHX3	20	41178448	41317672	-1	GO:0000988	transcription factor activity, protein binding	protein_coding
+ZMYND8	20	47209214	47356889	-1	GO:0042393	histone binding	protein_coding
+ZNF133	20	18288283	18316996	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+ZNF217	20	53567065	53609907	-1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+ZNF334	20	46499630	46513559	-1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+ZNF335	20	45948653	45972172	-1	GO:0009790	embryo development	protein_coding
+ZNF337	20	25674215	25696841	-1	GO:0003677	DNA binding	protein_coding
+ZNF341	20	33731657	33792269	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+ZNF343	20	2481817	2524702	-1	GO:0003677	DNA binding	protein_coding
+ZNF512B	20	63956702	63969865	-1	GO:0003677	DNA binding	protein_coding
+ZNF831	20	59123381	59259113	1	GO:0001071	nucleic acid binding transcription factor activity	protein_coding
+ZNFX1	20	49237946	49278426	-1	GO:0003723	RNA binding	protein_coding
+ZSWIM1	20	45881227	45885266	1	GO:0043167	ion binding	protein_coding
+ZSWIM3	20	45857617	45879122	1	GO:0043167	ion binding	protein_coding
