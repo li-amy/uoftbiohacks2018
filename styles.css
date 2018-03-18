@@ -1,0 +1,10 @@
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    width: auto;
+    position: absolute;
+    top: 250px;
+    left: 425px;
+}
