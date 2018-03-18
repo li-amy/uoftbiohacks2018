@@ -81,8 +81,12 @@
       var svg = d3.select("body").append("svg")
         .attr("width", diameter)
         .attr("height", diameter)
+        .attr("display", "inline-block")
+        .attr("margin", "auto")
         .append("g")
-          .attr("transform", "translate(" + radius + "," + radius + ")");
+          .attr("transform", "translate(" + radius + "," + radius + ")")
+          .attr("display", "block")
+          .attr("margin", "auto");
 
       var link = svg.append("g").selectAll(".link"),
         node = svg.append("g").selectAll(".node");
