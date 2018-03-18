@@ -1,10 +1,24 @@
-.wrapper {
-    text-align: center;
-}
-
 .button {
+    background-color: none;
+    border-radius: 12px;
+    border: 2px solid blue;
+    opacity: 0.9;
+    transition: 0.3s;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: auto;
+    margin-top: auto;
+    cursor: pointer;
     width: auto;
     position: absolute;
-    top: 250px;
-    left: 425px;
+}
+
+#svgMain {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }

@@ -15,12 +15,10 @@
 </head>
 
 <body>
-  <svg width="960" height="500">
+  <svg id="svgMain" align="center" width="960" height="500">
   </svg>
   <script src="https://d3js.org/d3.v4.min.js"></script>
-  <div class="wrapper">
-    <button class="button">Discovering Chromosome 20</button>
-  </div>
+
   <script>
 
   var svg = d3.select("svg"),
@@ -48,14 +46,21 @@
               });
         });
 
-  d3.select("button")
+  var text = svg.append("text")
+              .attr("fill", "blue")
+              .attr("font-size", "20px")
+              .attr("font-family", "Helvetica")
+              .attr("cursor", "pointer")
+              .attr("x", "50%")
+              .attr("y", "50%")
+              .attr("alignment-baseline", "middle")
+              .attr("text-anchor", "middle")
+              .text("Discover Chromosome 20");
+
+  d3.select("text")
     .on("click", function() {
       d3.select("svg").remove();
-      d3.select("button").remove();
     });
-  //   .on("click", function() {
-  //     play.style("display", null);
-  //   });
 
   d3.timer(function() {
     path.attr("d", function(d) {
